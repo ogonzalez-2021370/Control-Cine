@@ -101,5 +101,54 @@ El sistema permite importar/exportar la información principal para facilitar re
 
 ---
 
-## 📁 Estructura del proyecto
+## 📘 Manual de Usuario
+
+El sistema cuenta con un manual de usuario completo que guía paso a paso el uso de cada módulo, incluyendo:
+
+- Inicio de sesión con diferentes tipos de usuario
+- Gestión de películas, salas, asignaciones y boletos
+- Registro y modificación de clientes
+- Control de accesos por roles (Administrador / Operador)
+- Carga de archivos `.csv`
+- Generación de reportes exportables en formato HTML
+- Resolución de problemas comunes
+- Preguntas frecuentes
+
+📄 **Manual disponible aquí:**  
+[📥 Descargar Manual de Usuario (PDF)](Manuales/Manual%20de%20Usuario.pdf)
+
+---
+
+## 🛠️ Manual Técnico
+
+El manual técnico describe en detalle la arquitectura del sistema, tecnologías empleadas y lógica interna. Incluye el análisis de clases, funciones clave y estructura del código fuente, además de servir como guía para mantenimiento y futuras mejoras.
+
+### Contenido del manual:
+
+- Introducción al sistema y objetivos técnicos
+- Detalle de tecnologías utilizadas: C++, C++/CLI, Windows Forms
+- Requisitos mínimos del sistema (hardware y software)
+- Variables, estructuras y tipos de datos por entidad
+- Funciones clave del sistema:
+  - CRUD
+  - Persistencia con archivos `.csv`
+  - Validaciones internas
+  - Generación de reportes en HTML
+- Eventos principales de la interfaz gráfica
+- Diagrama de clases (visual conceptual)
+- Glosario de términos técnicos usados en el desarrollo.
+
+📄 **Manual disponible aquí:**  
+[📥 Descargar Manual Técnico (PDF)](Manuales/Manual%20T%C3%A9cnico.pdf)
+
+
+
+
+
+
+
+
+
+
+
 
