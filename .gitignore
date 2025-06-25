@@ -1,0 +1,14 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+x64/
+*.pch
+*.ipch
+*.suo
+*.user
+*.db
+*.db-shm
+*.db-wal
+*.VC.db
+*.pdb
